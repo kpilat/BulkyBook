@@ -1,0 +1,17 @@
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.DataAccess/bin/Debug/net5.0/BulkyBook.DataAccess.deps.json
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.DataAccess/bin/Debug/net5.0/BulkyBook.DataAccess.dll
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.DataAccess/bin/Debug/net5.0/ref/BulkyBook.DataAccess.dll
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.DataAccess/bin/Debug/net5.0/BulkyBook.DataAccess.pdb
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.DataAccess/obj/Debug/net5.0/BulkyBook.DataAccess.csproj.AssemblyReference.cache
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.DataAccess/obj/Debug/net5.0/BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.DataAccess/obj/Debug/net5.0/BulkyBook.DataAccess.AssemblyInfoInputs.cache
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.DataAccess/obj/Debug/net5.0/BulkyBook.DataAccess.AssemblyInfo.cs
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.DataAccess/obj/Debug/net5.0/BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.DataAccess/obj/Debug/net5.0/BulkyBook.DataAccess.dll
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.DataAccess/obj/Debug/net5.0/ref/BulkyBook.DataAccess.dll
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.DataAccess/obj/Debug/net5.0/BulkyBook.DataAccess.pdb
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.DataAccess/bin/Debug/net5.0/BulkyBook.Models.dll
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.DataAccess/bin/Debug/net5.0/BulkyBook.Utility.dll
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.DataAccess/bin/Debug/net5.0/BulkyBook.Models.pdb
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.DataAccess/bin/Debug/net5.0/BulkyBook.Utility.pdb
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.DataAccess/obj/Debug/net5.0/BulkyBook.DataAccess.csproj.CopyComplete

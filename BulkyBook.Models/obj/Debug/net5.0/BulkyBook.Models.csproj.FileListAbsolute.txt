@@ -1,0 +1,12 @@
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.Models/bin/Debug/net5.0/BulkyBook.Models.deps.json
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.Models/bin/Debug/net5.0/BulkyBook.Models.dll
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.Models/bin/Debug/net5.0/ref/BulkyBook.Models.dll
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.Models/bin/Debug/net5.0/BulkyBook.Models.pdb
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.Models/obj/Debug/net5.0/BulkyBook.Models.csproj.AssemblyReference.cache
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.Models/obj/Debug/net5.0/BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.Models/obj/Debug/net5.0/BulkyBook.Models.AssemblyInfoInputs.cache
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.Models/obj/Debug/net5.0/BulkyBook.Models.AssemblyInfo.cs
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.Models/obj/Debug/net5.0/BulkyBook.Models.csproj.CoreCompileInputs.cache
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.Models/obj/Debug/net5.0/BulkyBook.Models.dll
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.Models/obj/Debug/net5.0/ref/BulkyBook.Models.dll
+/Users/kristianpilat/Desktop/ASP.NET CORE/BulkyBook/BulkyBook.Models/obj/Debug/net5.0/BulkyBook.Models.pdb
